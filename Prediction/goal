@@ -1,0 +1,5 @@
+Le but est de prédire si l'on va avancer ou reculer ou rester sur place dans la lecture en fonction de ce que l'on a regardé précédement. 
+
+Input: somme des wordvector jusque là,
+sortie: [X,X,X] => [1,0,0] = avancer ; [0,1,0] = rester sur place ; [0,0,1] = reculer
+D'abord de manière générale puis par sujet?
